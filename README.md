@@ -7,7 +7,7 @@ Web Developer
 🚀 Welcome to my GitHub! I'm a passionate web developer with a focus on creating engaging and user-friendly digital experiences. My expertise spans both frontend and backend technologies, and I'm dedicated to staying on the cutting edge of web development trends.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [deepaksharma.muskowl@gmail.com](mailto:deepaksharma.muskowl@gmail.com)
+* ✉️  You can contact me at [deepaksharma76900@gmail.com](mailto:deepaksharma76900@gmail.com)
 * 🧠  I'm learning Javascript, ReactJS
 * 🤝  I'm open to collaborating on Amazon Cloning in React Native
 * ⚡  My Nick Name Dipoo!!
